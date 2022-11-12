@@ -1,0 +1,256 @@
+---
+title: "Swiss Tour"
+---
+
+![](media/1115616986308988934-D3t3vA9WAAEwHQz.jpg)
+
+Visiting all 26 county capitals of Switzerland by train.
+
+---
+
+Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www.kalberer.org/monopoly/) folgt morgen die erste von drei Tagesetappen an alle Kantonshauptorte der Schweiz [#swisstour](#top)
+
+(Originally on Twitter: [Thu Jan 03 18:08:28 +0000 2019](https://twitter.com/implgeo/status/1080888642577596416))
+
+---
+
+[#swisstour](#top) Ostschweiz has started. Goal: visiting all 26 county capitals of Switzerland by train.
+
+![](media/1081071065466580992-DwC8Z3vX0AU8uFb.jpg)
+
+(Originally on Twitter: [Fri Jan 04 06:13:21 +0000 2019](https://twitter.com/implgeo/status/1081071065466580992))
+
+---
+
+[#swisstour](#top) 1/26: Appenzell, Kanton Appenzell Innerrhoden [www.ai.ch/politik](https://www.ai.ch/politik)
+
+![](media/1081094885980151809-DwDSEVVWwAAtyin.jpg)
+
+(Originally on Twitter: [Fri Jan 04 07:48:01 +0000 2019](https://twitter.com/implgeo/status/1081094885980151809))
+
+---
+
+[#swisstour](#top) 2/26: Regierungsgebäude Herisau, Kanton Appenzell Ausserrhoden [www.ar.ch/kantonsrat](https://www.ar.ch/kantonsrat/)
+
+![](media/1081116770428248065-DwDl-QiW0AE4GxY.jpg)
+
+(Originally on Twitter: [Fri Jan 04 09:14:58 +0000 2019](https://twitter.com/implgeo/status/1081116770428248065))
+
+---
+
+[#swisstour](#top) 3/26: Rathaus Glarus, Kanton Glarus
+
+![](media/1081139536514768896-DwD6raEWkAAHhLk.jpg)
+
+(Originally on Twitter: [Fri Jan 04 10:45:26 +0000 2019](https://twitter.com/implgeo/status/1081139536514768896))
+
+---
+
+[#swisstour](#top) 4/26: Rathaus Zürich, Kanton Zürich [www.kantonsrat.zh.ch](https://www.kantonsrat.zh.ch/kurz-erklaert/der-kantonsrat-kurz-erklaert.aspx)
+
+![](media/1081166182311432192-DwES6Z-X4AAvYvC.jpg)
+
+(Originally on Twitter: [Fri Jan 04 12:31:19 +0000 2019](https://twitter.com/implgeo/status/1081166182311432192))
+
+---
+
+[#swisstour](#top) 5/26: Rathaus Schaffhausen, Kanton Schaffhausen [wikipedia.org](https://de.wikipedia.org/wiki/Kantonsrat_(Schaffhausen))
+
+![](media/1081186406553317376-DwElTmOX0AE5Zd_.jpg)
+
+(Originally on Twitter: [Fri Jan 04 13:51:41 +0000 2019](https://twitter.com/implgeo/status/1081186406553317376))
+
+---
+
+[#swisstour](#top) 6/26: Rathaus Frauenfeld, Kanton Thurgau [wikipedia.org](https://de.wikipedia.org/wiki/Grosser_Rat_(Thurgau))
+
+![](media/1081201503791210501-DwEzCWUX0AAHlI0.jpg)
+
+(Originally on Twitter: [Fri Jan 04 14:51:40 +0000 2019](https://twitter.com/implgeo/status/1081201503791210501))
+
+---
+
+[#swisstour](#top) 7/26: Kantonsratssaal im Klosterbezirk St. Gallen, Kanton St. Gallen
+[www.sg.ch](https://www.sg.ch/politik-verwaltung/kantonsrat/der-kantonsrat-kurz-erklaert/der-kantonsratssaal.html)
+
+![](media/1081226626267004928-DwFJ4sEWoAEdbms.jpg)
+
+(Originally on Twitter: [Fri Jan 04 16:31:30 +0000 2019](https://twitter.com/implgeo/status/1081226626267004928))
+
+---
+
+[#swisstour](#top) 8/26: Grossratsgebäude Chur, Kanton Graubünden. [wikipedia.org](https://de.wikipedia.org/wiki/Grosser_Rat_(Graub%C3%BCnden))
+
+Etappe 1 ist geschafft! Etappen 2+3 folgen später.
+
+![](media/1081255718563598338-DwFkWBRXcAAaqkN.jpg)
+
+(Originally on Twitter: [Fri Jan 04 18:27:06 +0000 2019](https://twitter.com/implgeo/status/1081255718563598338))
+
+---
+
+6:28: Start zu Etappe 2+3 der [#swisstour](#top) - Reise zu allen Kantonshauptorten der Schweiz 🇨🇭 in 3 Tagen.
+
+![](media/1115114368365146112-D3mum6nW4AE8lfh.jpg)
+
+(Originally on Twitter: [Mon Apr 08 04:49:17 +0000 2019](https://twitter.com/implgeo/status/1115114368365146112))
+
+---
+
+[#swisstour](#top) 9/26: Rathaus Basel, Kanton Basel Stadt
+
+![](media/1115151953544269824-D3nQyqSW4AALEwh.jpg)
+
+(Originally on Twitter: [Mon Apr 08 07:18:38 +0000 2019](https://twitter.com/implgeo/status/1115151953544269824))
+
+---
+
+[#swisstour](#top) 10/26: Parlement Delémont, Kanton Jura
+
+![](media/1115174107363119105-D3nk8M5X4AE47yq.jpg)
+
+(Originally on Twitter: [Mon Apr 08 08:46:40 +0000 2019](https://twitter.com/implgeo/status/1115174107363119105))
+
+---
+
+[#swisstour](#top) 11/26: Rathaus Solothurn, Kanton Solothurn
+
+![](media/1115191546775842816-D3n0zTEW0AIiDYo.jpg)
+
+(Originally on Twitter: [Mon Apr 08 09:55:58 +0000 2019](https://twitter.com/implgeo/status/1115191546775842816))
+
+---
+
+[#swisstour](#top) 12/26: Château Neuchâtel, Kanton Neuenburg
+
+![](media/1115211158200508418-D3oGoyqWkAA9YY8.jpg)
+
+(Originally on Twitter: [Mon Apr 08 11:13:54 +0000 2019](https://twitter.com/implgeo/status/1115211158200508418))
+
+---
+
+[#swisstour](#top) 13/26: Grand Conseil Lausanne, Kanton Waadt
+
+![](media/1115237565815250947-D3oephJXsAAzo8m.jpg)
+
+(Originally on Twitter: [Mon Apr 08 12:58:50 +0000 2019](https://twitter.com/implgeo/status/1115237565815250947))
+
+---
+
+[#swisstour](#top) 14/26: Hôtel de Ville Genève, Kanton Genf
+
+![](media/1115245965684957184-D3omS4fWkAA_eBu.jpg)
+
+(Originally on Twitter: [Mon Apr 08 13:32:13 +0000 2019](https://twitter.com/implgeo/status/1115245965684957184))
+
+---
+
+[#swisstour](#top) 15/26: Grand Conseil Sion, Kanton Wallis
+
+![](media/1115294279772123137-D3pSPIEXsAEx1F4.jpg)
+
+(Originally on Twitter: [Mon Apr 08 16:44:12 +0000 2019](https://twitter.com/implgeo/status/1115294279772123137))
+
+---
+
+Approaching Lausanne for the 3rd time today. Better prepared to take a picture of Château Chillon from the train this time. [#swisstour](#top) @foss4g
+
+![](media/1115296030277423106-D3pT1AiW4AA-Gh3.jpg)
+
+(Originally on Twitter: [Mon Apr 08 16:51:09 +0000 2019](https://twitter.com/implgeo/status/1115296030277423106))
+
+---
+
+[#swisstour](#top) 16/26: Grand Conseil Fribourg, Kanton Freiburg
+
+![](media/1115321807266111491-D3prRbhW4AEqeuO.jpg)
+
+(Originally on Twitter: [Mon Apr 08 18:33:35 +0000 2019](https://twitter.com/implgeo/status/1115321807266111491))
+
+---
+
+Overnight stay with an appropriate view:  the National Parliament in the Swiss capital Bern [#swisstour](#top)
+
+![](media/1115338334203727873-D3p6TZjW4AEpq0Q.jpg)
+
+(Originally on Twitter: [Mon Apr 08 19:39:15 +0000 2019](https://twitter.com/implgeo/status/1115338334203727873))
+
+---
+
+Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
+
+![](media/1115488432480976897-D3sC0Q-W0AAt0R4.jpg)
+
+(Originally on Twitter: [Tue Apr 09 05:35:41 +0000 2019](https://twitter.com/implgeo/status/1115488432480976897))
+
+---
+
+[#swisstour](#top) 18/26: Regierungsgebäude Liestal, Kanton Basel-Land
+
+![](media/1115510215833739264-D3sWoSlXoAEyKRl.jpg)
+
+(Originally on Twitter: [Tue Apr 09 07:02:15 +0000 2019](https://twitter.com/implgeo/status/1115510215833739264))
+
+---
+
+[#swisstour](#top) 19/26: Grossratsgebäude Aarau, Kanton Aargau
+
+![](media/1115522871475019776-D3siI63X4AA9sRJ.jpg)
+
+(Originally on Twitter: [Tue Apr 09 07:52:32 +0000 2019](https://twitter.com/implgeo/status/1115522871475019776))
+
+---
+
+[#swisstour](#top) 20/26: Regierungsgebäude Luzern, Kanton Luzern
+
+![](media/1115545278956888064-D3s2hNWWkAACUI5.jpg)
+
+(Originally on Twitter: [Tue Apr 09 09:21:34 +0000 2019](https://twitter.com/implgeo/status/1115545278956888064))
+
+---
+
+[#swisstour](#top) 21/26: Rathaus Sarnen, Kanton Obwalden
+
+![](media/1115560255402983424-D3tEI8PW0AEPDmT.jpg)
+
+(Originally on Twitter: [Tue Apr 09 10:21:05 +0000 2019](https://twitter.com/implgeo/status/1115560255402983424))
+
+---
+
+[#swisstour](#top) 21/26: Rathaus Stans, Kanton Nidwalden
+
+![](media/1115571707300012032-D3tOjiOWkAAOlvE.jpg)
+
+(Originally on Twitter: [Tue Apr 09 11:06:35 +0000 2019](https://twitter.com/implgeo/status/1115571707300012032))
+
+---
+
+[#swisstour](#top) 23/26: Regierungsgebäude Zug, Kanton Zug
+
+![](media/1115601912307388423-D3tqBjxUwAEsqIh.jpg)
+
+(Originally on Twitter: [Tue Apr 09 13:06:37 +0000 2019](https://twitter.com/implgeo/status/1115601912307388423))
+
+---
+
+[#swisstour](#top) 24/26: Rathaus Schwyz, Kanton Schwyz
+
+![](media/1115616986308988934-D3t3vA9WAAEwHQz.jpg)
+
+(Originally on Twitter: [Tue Apr 09 14:06:31 +0000 2019](https://twitter.com/implgeo/status/1115616986308988934))
+
+---
+
+[#swisstour](#top) 25/26: Rathaus Altdorf, Kanton Uri
+
+![](media/1115634843046547456-D3uH-fWWAAEinmg.jpg)
+
+(Originally on Twitter: [Tue Apr 09 15:17:28 +0000 2019](https://twitter.com/implgeo/status/1115634843046547456))
+
+---
+
+🎉🎉🎉 [#swisstour](#top) 26/26: Palazzo delle Orsoline Bellinzona, Kanton Tessin 🇨🇭🇨🇭🇨🇭
+
+![](media/1115649897489940482-D3uVqx6WwAAa3X5.jpg)
+
+(Originally on Twitter: [Tue Apr 09 16:17:17 +0000 2019](https://twitter.com/implgeo/status/1115649897489940482))
