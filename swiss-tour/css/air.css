@@ -5,6 +5,7 @@
     --color-text: #4e4b5c;
     --font-family: 'Alegreya', serif;
     --font-size: 20px;
+    --font-size-small: 16px;
 }
 
 @font-face {
@@ -77,12 +78,12 @@
 }
 
 html {
-  font-size: 12px;
+  font-size: var(--font-size-small);
 }
 
 @media screen and (min-width: 32rem) and (max-width: 48rem) {
   html {
-    font-size: 15px;
+    font-size: var(--font-size-small);
   }
 }
 
