@@ -10,7 +10,7 @@ Visiting all 26 county capitals of Switzerland by train.
 
 Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www.kalberer.org/monopoly/) folgt morgen die erste von drei Tagesetappen an alle Kantonshauptorte der Schweiz [#swisstour](#top)
 
-(Originally on Twitter: [Thu Jan 03 18:08:28 +0000 2019](https://twitter.com/implgeo/status/1080888642577596416))
+(Originally on Twitter: [Thu Jan 03 20:08:28 2019](https://twitter.com/implgeo/status/1080888642577596416))
 
 ---
 
@@ -18,7 +18,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081071065466580992-DwC8Z3vX0AU8uFb.jpg)
 
-(Originally on Twitter: [Fri Jan 04 06:13:21 +0000 2019](https://twitter.com/implgeo/status/1081071065466580992))
+(Originally on Twitter: [Fri Jan 04 8:13:21 2019](https://twitter.com/implgeo/status/1081071065466580992))
 
 ---
 
@@ -26,7 +26,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081094885980151809-DwDSEVVWwAAtyin.jpg)
 
-(Originally on Twitter: [Fri Jan 04 07:48:01 +0000 2019](https://twitter.com/implgeo/status/1081094885980151809))
+(Originally on Twitter: [Fri Jan 04 9:48:01 2019](https://twitter.com/implgeo/status/1081094885980151809))
 
 ---
 
@@ -34,7 +34,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081116770428248065-DwDl-QiW0AE4GxY.jpg)
 
-(Originally on Twitter: [Fri Jan 04 09:14:58 +0000 2019](https://twitter.com/implgeo/status/1081116770428248065))
+(Originally on Twitter: [Fri Jan 04 11:14:58 2019](https://twitter.com/implgeo/status/1081116770428248065))
 
 ---
 
@@ -42,7 +42,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081139536514768896-DwD6raEWkAAHhLk.jpg)
 
-(Originally on Twitter: [Fri Jan 04 10:45:26 +0000 2019](https://twitter.com/implgeo/status/1081139536514768896))
+(Originally on Twitter: [Fri Jan 04 12:45:26 2019](https://twitter.com/implgeo/status/1081139536514768896))
 
 ---
 
@@ -50,7 +50,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081166182311432192-DwES6Z-X4AAvYvC.jpg)
 
-(Originally on Twitter: [Fri Jan 04 12:31:19 +0000 2019](https://twitter.com/implgeo/status/1081166182311432192))
+(Originally on Twitter: [Fri Jan 04 14:31:19 2019](https://twitter.com/implgeo/status/1081166182311432192))
 
 ---
 
@@ -58,7 +58,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081186406553317376-DwElTmOX0AE5Zd_.jpg)
 
-(Originally on Twitter: [Fri Jan 04 13:51:41 +0000 2019](https://twitter.com/implgeo/status/1081186406553317376))
+(Originally on Twitter: [Fri Jan 04 15:51:41 2019](https://twitter.com/implgeo/status/1081186406553317376))
 
 ---
 
@@ -66,7 +66,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081201503791210501-DwEzCWUX0AAHlI0.jpg)
 
-(Originally on Twitter: [Fri Jan 04 14:51:40 +0000 2019](https://twitter.com/implgeo/status/1081201503791210501))
+(Originally on Twitter: [Fri Jan 04 16:51:40 2019](https://twitter.com/implgeo/status/1081201503791210501))
 
 ---
 
@@ -75,7 +75,7 @@ Nach der Monopoly-Reise vom letzten Jahr [www.kalberer.org/monopoly](https://www
 
 ![](media/1081226626267004928-DwFJ4sEWoAEdbms.jpg)
 
-(Originally on Twitter: [Fri Jan 04 16:31:30 +0000 2019](https://twitter.com/implgeo/status/1081226626267004928))
+(Originally on Twitter: [Fri Jan 04 18:31:30 2019](https://twitter.com/implgeo/status/1081226626267004928))
 
 ---
 
@@ -85,7 +85,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1081255718563598338-DwFkWBRXcAAaqkN.jpg)
 
-(Originally on Twitter: [Fri Jan 04 18:27:06 +0000 2019](https://twitter.com/implgeo/status/1081255718563598338))
+(Originally on Twitter: [Fri Jan 04 20:27:06 2019](https://twitter.com/implgeo/status/1081255718563598338))
 
 ---
 
@@ -93,7 +93,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115114368365146112-D3mum6nW4AE8lfh.jpg)
 
-(Originally on Twitter: [Mon Apr 08 04:49:17 +0000 2019](https://twitter.com/implgeo/status/1115114368365146112))
+(Originally on Twitter: [Mon Apr 08 6:49:17 2019](https://twitter.com/implgeo/status/1115114368365146112))
 
 ---
 
@@ -101,7 +101,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115151953544269824-D3nQyqSW4AALEwh.jpg)
 
-(Originally on Twitter: [Mon Apr 08 07:18:38 +0000 2019](https://twitter.com/implgeo/status/1115151953544269824))
+(Originally on Twitter: [Mon Apr 08 9:18:38 2019](https://twitter.com/implgeo/status/1115151953544269824))
 
 ---
 
@@ -109,7 +109,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115174107363119105-D3nk8M5X4AE47yq.jpg)
 
-(Originally on Twitter: [Mon Apr 08 08:46:40 +0000 2019](https://twitter.com/implgeo/status/1115174107363119105))
+(Originally on Twitter: [Mon Apr 08 10:46:40 2019](https://twitter.com/implgeo/status/1115174107363119105))
 
 ---
 
@@ -117,7 +117,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115191546775842816-D3n0zTEW0AIiDYo.jpg)
 
-(Originally on Twitter: [Mon Apr 08 09:55:58 +0000 2019](https://twitter.com/implgeo/status/1115191546775842816))
+(Originally on Twitter: [Mon Apr 08 11:55:58 2019](https://twitter.com/implgeo/status/1115191546775842816))
 
 ---
 
@@ -125,7 +125,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115211158200508418-D3oGoyqWkAA9YY8.jpg)
 
-(Originally on Twitter: [Mon Apr 08 11:13:54 +0000 2019](https://twitter.com/implgeo/status/1115211158200508418))
+(Originally on Twitter: [Mon Apr 08 13:13:54 2019](https://twitter.com/implgeo/status/1115211158200508418))
 
 ---
 
@@ -133,7 +133,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115237565815250947-D3oephJXsAAzo8m.jpg)
 
-(Originally on Twitter: [Mon Apr 08 12:58:50 +0000 2019](https://twitter.com/implgeo/status/1115237565815250947))
+(Originally on Twitter: [Mon Apr 08 14:58:50 2019](https://twitter.com/implgeo/status/1115237565815250947))
 
 ---
 
@@ -141,7 +141,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115245965684957184-D3omS4fWkAA_eBu.jpg)
 
-(Originally on Twitter: [Mon Apr 08 13:32:13 +0000 2019](https://twitter.com/implgeo/status/1115245965684957184))
+(Originally on Twitter: [Mon Apr 08 15:32:13 2019](https://twitter.com/implgeo/status/1115245965684957184))
 
 ---
 
@@ -149,7 +149,7 @@ Etappe 1 ist geschafft! Etappen 2+3 folgen später.
 
 ![](media/1115294279772123137-D3pSPIEXsAEx1F4.jpg)
 
-(Originally on Twitter: [Mon Apr 08 16:44:12 +0000 2019](https://twitter.com/implgeo/status/1115294279772123137))
+(Originally on Twitter: [Mon Apr 08 18:44:12 2019](https://twitter.com/implgeo/status/1115294279772123137))
 
 ---
 
@@ -157,7 +157,7 @@ Approaching Lausanne for the 3rd time today. Better prepared to take a picture o
 
 ![](media/1115296030277423106-D3pT1AiW4AA-Gh3.jpg)
 
-(Originally on Twitter: [Mon Apr 08 16:51:09 +0000 2019](https://twitter.com/implgeo/status/1115296030277423106))
+(Originally on Twitter: [Mon Apr 08 18:51:09 2019](https://twitter.com/implgeo/status/1115296030277423106))
 
 ---
 
@@ -165,7 +165,7 @@ Approaching Lausanne for the 3rd time today. Better prepared to take a picture o
 
 ![](media/1115321807266111491-D3prRbhW4AEqeuO.jpg)
 
-(Originally on Twitter: [Mon Apr 08 18:33:35 +0000 2019](https://twitter.com/implgeo/status/1115321807266111491))
+(Originally on Twitter: [Mon Apr 08 20:33:35 2019](https://twitter.com/implgeo/status/1115321807266111491))
 
 ---
 
@@ -173,7 +173,7 @@ Overnight stay with an appropriate view:  the National Parliament in the Swiss c
 
 ![](media/1115338334203727873-D3p6TZjW4AEpq0Q.jpg)
 
-(Originally on Twitter: [Mon Apr 08 19:39:15 +0000 2019](https://twitter.com/implgeo/status/1115338334203727873))
+(Originally on Twitter: [Mon Apr 08 21:39:15 2019](https://twitter.com/implgeo/status/1115338334203727873))
 
 ---
 
@@ -181,7 +181,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115488432480976897-D3sC0Q-W0AAt0R4.jpg)
 
-(Originally on Twitter: [Tue Apr 09 05:35:41 +0000 2019](https://twitter.com/implgeo/status/1115488432480976897))
+(Originally on Twitter: [Tue Apr 09 7:35:41 2019](https://twitter.com/implgeo/status/1115488432480976897))
 
 ---
 
@@ -189,7 +189,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115510215833739264-D3sWoSlXoAEyKRl.jpg)
 
-(Originally on Twitter: [Tue Apr 09 07:02:15 +0000 2019](https://twitter.com/implgeo/status/1115510215833739264))
+(Originally on Twitter: [Tue Apr 09 9:02:15 2019](https://twitter.com/implgeo/status/1115510215833739264))
 
 ---
 
@@ -197,7 +197,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115522871475019776-D3siI63X4AA9sRJ.jpg)
 
-(Originally on Twitter: [Tue Apr 09 07:52:32 +0000 2019](https://twitter.com/implgeo/status/1115522871475019776))
+(Originally on Twitter: [Tue Apr 09 9:52:32 2019](https://twitter.com/implgeo/status/1115522871475019776))
 
 ---
 
@@ -205,7 +205,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115545278956888064-D3s2hNWWkAACUI5.jpg)
 
-(Originally on Twitter: [Tue Apr 09 09:21:34 +0000 2019](https://twitter.com/implgeo/status/1115545278956888064))
+(Originally on Twitter: [Tue Apr 09 11:21:34 2019](https://twitter.com/implgeo/status/1115545278956888064))
 
 ---
 
@@ -213,7 +213,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115560255402983424-D3tEI8PW0AEPDmT.jpg)
 
-(Originally on Twitter: [Tue Apr 09 10:21:05 +0000 2019](https://twitter.com/implgeo/status/1115560255402983424))
+(Originally on Twitter: [Tue Apr 09 12:21:05 2019](https://twitter.com/implgeo/status/1115560255402983424))
 
 ---
 
@@ -221,7 +221,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115571707300012032-D3tOjiOWkAAOlvE.jpg)
 
-(Originally on Twitter: [Tue Apr 09 11:06:35 +0000 2019](https://twitter.com/implgeo/status/1115571707300012032))
+(Originally on Twitter: [Tue Apr 09 13:06:35 2019](https://twitter.com/implgeo/status/1115571707300012032))
 
 ---
 
@@ -229,7 +229,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115601912307388423-D3tqBjxUwAEsqIh.jpg)
 
-(Originally on Twitter: [Tue Apr 09 13:06:37 +0000 2019](https://twitter.com/implgeo/status/1115601912307388423))
+(Originally on Twitter: [Tue Apr 09 15:06:37 2019](https://twitter.com/implgeo/status/1115601912307388423))
 
 ---
 
@@ -237,7 +237,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115616986308988934-D3t3vA9WAAEwHQz.jpg)
 
-(Originally on Twitter: [Tue Apr 09 14:06:31 +0000 2019](https://twitter.com/implgeo/status/1115616986308988934))
+(Originally on Twitter: [Tue Apr 09 16:06:31 2019](https://twitter.com/implgeo/status/1115616986308988934))
 
 ---
 
@@ -245,7 +245,7 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115634843046547456-D3uH-fWWAAEinmg.jpg)
 
-(Originally on Twitter: [Tue Apr 09 15:17:28 +0000 2019](https://twitter.com/implgeo/status/1115634843046547456))
+(Originally on Twitter: [Tue Apr 09 17:17:28 2019](https://twitter.com/implgeo/status/1115634843046547456))
 
 ---
 
@@ -253,4 +253,4 @@ Dritte Etappe [#swisstour](#top) 17/26: Rathaus Bern, Kanton Bern
 
 ![](media/1115649897489940482-D3uVqx6WwAAa3X5.jpg)
 
-(Originally on Twitter: [Tue Apr 09 16:17:17 +0000 2019](https://twitter.com/implgeo/status/1115649897489940482))
+(Originally on Twitter: [Tue Apr 09 18:17:17 2019](https://twitter.com/implgeo/status/1115649897489940482))
