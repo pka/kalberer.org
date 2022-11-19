@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>$title$</title>
+  <style>
+    #map {
+        height: 600px;
+        width: 90%;
+        max-width: 1150px;
+        padding-left: 50px;
+        margin-bottom: 20px;
+    }
+    .map .ol-zoom {
+      top: 10px;
+      left: auto;
+      right: 10px;
+    }
+  </style>
+  <link rel="stylesheet" href="assets/ol.css" type="text/css">
+  <link rel="stylesheet" href="css/air.css" />
+  <script src="assets/ol.js"></script>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">$title$</h1>
+</header>
+
+<div id="map" class="map"></div>
+
+$body$
+
+<script type="text/javascript">
+  var pointStyle = new ol.style.Style({
+      image: new ol.style.Circle({
+        radius: 10,
+        fill: new ol.style.Fill({
+          color: 'rgba(243, 202, 64, 0.8)',
+        }),
+        stroke: new ol.style.Stroke({
+          color: 'rgba(88, 88, 88, 0.5)',
+          width: 1,
+        }),
+      })
+    });
+  var lineStyle1 = new ol.style.Style({
+      stroke: new ol.style.Stroke({
+        color: 'rgba(87, 117, 144, 0.4)',
+        width: 5,
+      })
+    });
+  var lineStyle2 = new ol.style.Style({
+      stroke: new ol.style.Stroke({
+        color: 'rgba(242, 165, 65, 0.4)',
+        width: 8,
+      })
+    });
+  let track_source1 = new ol.source.Vector({
+    url: 'assets/track1.geojson',
+    format: new ol.format.GeoJSON(),
+  });
+  let track_source2 = new ol.source.Vector({
+    url: 'assets/track2.geojson',
+    format: new ol.format.GeoJSON(),
+  });
+  var map = new ol.Map({
+    target: 'map',
+    layers: [
+      new ol.layer.MapboxVector({
+        styleUrl: 'mapbox://styles/mapbox/light-v9',
+        accessToken:
+          'pk.eyJ1Ijoic291cmNlcG9sZSIsImEiOiJjanB6bWxoazEwY2plNDhsY3RpenBvNmM0In0.Z--2Th6QmaLc_OhPDNsiwg'
+      }),
+      new ol.layer.Vector({
+        source: track_source1,
+        style: lineStyle1,
+      }),
+      new ol.layer.Vector({
+        source: track_source2,
+        style: lineStyle2,
+      }),
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([9.6, 46.7]),
+      zoom: 9
+    })
+  });
+</script>
+
+</body>
+</html>

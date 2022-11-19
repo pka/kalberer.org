@@ -1,4 +1,4 @@
-PANDOC_OPTS=--standalone --css=css/air.css
+PANDOC_OPTS=--standalone --template=template.html
 
 all: index.html
 
