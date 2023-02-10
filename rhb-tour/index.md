@@ -18,7 +18,7 @@ Four years after our [Monopoly tour](https://www.kalberer.org/monopoly/) and the
 
 ----
 
-Anteise zur [#rhbtour](#top) mit erstem Ziel Disenis/Mustér
+Anreise zur [#rhbtour](#top) mit erstem Ziel Disentis/Mustér
 
 ![](media/1552543780900831232-FYu-VdrXEAEzg0q.jpg)
 
