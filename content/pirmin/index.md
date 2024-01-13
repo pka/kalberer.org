@@ -17,6 +17,6 @@ This is the homepage of Pirmin Kalberer.
 
 ### Railway tours
 
-* [Swiss Monopoly Tour](https://www.kalberer.org/monopoly/)
+* [Swiss Monopoly Tour](/monopoly-tour/)
 * [Swiss Tour](/swiss-tour/)
 * [RhB Tour](/rhb-tour/)
