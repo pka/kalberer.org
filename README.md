@@ -1,15 +1,6 @@
-kalberer.org
-============
+# kalberer.org
 
-HTML is generated with [pandoc](https://pandoc.org/MANUAL.html).
-
-Create HTML:
-
-        make
-
-View HTML:
-
-        x-www-browser index.html
+Built with [Zola](https://www.getzola.org/).
 
 
 Stylesheet collection: https://github.com/dbohdan/classless-css
