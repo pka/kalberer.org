@@ -1,24 +1,25 @@
 ---
 title: "RhB Tour"
+template: "rhb-tour.html"
 ---
 
 Travelling the whole Rhaetian Railway network within two days.
 
 ----
 
-Vier Jahre nach unserer [Monopoly-Tour](https://www.kalberer.org/monopoly/) und der Reise zu allen Kantonshauptorten geht es am Donnnerstag auf eine neue Bahnreise: in zwei Tagen über das gesamte Streckennetz der Rhätischen Bahn. [#rhbtour](#top)
+Vier Jahre nach unserer [Monopoly-Tour](https://www.kalberer.org/monopoly/) und der Reise zu allen Kantonshauptorten geht es am Donnnerstag auf eine neue Bahnreise: in zwei Tagen über das gesamte Streckennetz der Rhätischen Bahn. [#rhbtour](.)
 
 (Originally on Twitter: [Tue Jul 26 21:19:47 2022](https://twitter.com/implgeo/status/1552010814021926913))
 
 ----
 
-Four years after our [Monopoly tour](https://www.kalberer.org/monopoly/) and the [Swiss county capital tour](https://kalberer.org/swiss-tour/) this Thursday a new adventure begins: travelling the whole Rhaetian Railway network within two days. [#rhbtour](#top)
+Four years after our [Monopoly tour](https://www.kalberer.org/monopoly/) and the [Swiss county capital tour](https://kalberer.org/swiss-tour/) this Thursday a new adventure begins: travelling the whole Rhaetian Railway network within two days. [#rhbtour](.)
 
 (Originally on Twitter: [Tue Jul 26 21:29:12 2022](https://twitter.com/implgeo/status/1552013184793542656))
 
 ----
 
-Anreise zur [#rhbtour](#top) mit erstem Ziel Disentis/Mustér
+Anreise zur [#rhbtour](.) mit erstem Ziel Disentis/Mustér
 
 ![](media/1552543780900831232-FYu-VdrXEAEzg0q.jpg)
 
@@ -26,7 +27,7 @@ Anreise zur [#rhbtour](#top) mit erstem Ziel Disentis/Mustér
 
 ----
 
-Umstieg in Chur auf die RhB [#rhbtour](#top) @rhaetischebahn
+Umstieg in Chur auf die RhB [#rhbtour](.) @rhaetischebahn
 
 ![](media/1552548793316409344-FYvC4jyX0AAHNfr.jpg)
 
@@ -34,7 +35,7 @@ Umstieg in Chur auf die RhB [#rhbtour](#top) @rhaetischebahn
 
 ----
 
-Vorderrheinaufwärts [#rhbtour](#top)
+Vorderrheinaufwärts [#rhbtour](.)
 
 ![](media/1552556430733058048-FYvJ1clWAAE3dIY.jpg)
 
@@ -42,7 +43,7 @@ Vorderrheinaufwärts [#rhbtour](#top)
 
 ----
 
-Erstes Ziel erreicht! [#rhbtour](#top)
+Erstes Ziel erreicht! [#rhbtour](.)
 
 ![](media/1552568457388036096-FYvUxpaWYAEw4Bi.jpg)
 
@@ -50,7 +51,7 @@ Erstes Ziel erreicht! [#rhbtour](#top)
 
 ----
 
-Rheinschlucht - Ruinaulta [#rhbtour](#top)
+Rheinschlucht - Ruinaulta [#rhbtour](.)
 
 ![](media/1552592011773054977-FYvqLsNWYAEO-wJ.jpg)
 ![](media/1552592011773054977-FYvqMuVWAAEe1nT.jpg)
@@ -59,7 +60,7 @@ Rheinschlucht - Ruinaulta [#rhbtour](#top)
 
 ----
 
-Mittagspause in Chur [#rhbtour](#top)
+Mittagspause in Chur [#rhbtour](.)
 
 ![](media/1552600329216212994-FYvxw5kWIAEzEKq.jpg)
 
@@ -67,7 +68,7 @@ Mittagspause in Chur [#rhbtour](#top)
 
 ----
 
-Sunnibergbrücke zum Vereinatunnel (19 km) ins Unterengadin [#rhbtour](#top)
+Sunnibergbrücke zum Vereinatunnel (19 km) ins Unterengadin [#rhbtour](.)
 
 ![](media/1552616557469130752-FYwAhezXgAArAyB.jpg)
 
@@ -75,7 +76,7 @@ Sunnibergbrücke zum Vereinatunnel (19 km) ins Unterengadin [#rhbtour](#top)
 
 ----
 
-Glacépause in Scuol, 2. Etappenziel erreicht! [#rhbtour](#top)
+Glacépause in Scuol, 2. Etappenziel erreicht! [#rhbtour](.)
 
 ![](media/1552633974673006592-FYwQTrVXoAEZ56k.jpg)
 ![](media/1552633974673006592-FYwQWPtX0AQ_Qsz.jpg)
@@ -84,7 +85,7 @@ Glacépause in Scuol, 2. Etappenziel erreicht! [#rhbtour](#top)
 
 ----
 
-Schloss Tarasp [#rhbtour](#top)
+Schloss Tarasp [#rhbtour](.)
 
 ![](media/1552635111811813376-FYwRYURX0AIudKm.jpg)
 
@@ -92,7 +93,7 @@ Schloss Tarasp [#rhbtour](#top)
 
 ----
 
-3. Etappe nach St. Moritz mit 20 Minuten Verspätung geschafft. Noch gut 2 Stunden bis zum Tagesziel. [#rhbtour](#top)
+3. Etappe nach St. Moritz mit 20 Minuten Verspätung geschafft. Noch gut 2 Stunden bis zum Tagesziel. [#rhbtour](.)
 
 ![](media/1552664142183546880-FYwrzV_X0AEayf4.jpg)
 
@@ -100,7 +101,7 @@ Schloss Tarasp [#rhbtour](#top)
 
 ----
 
-Berninapass 2235 m ü. M. [#rhbtour](#top)
+Berninapass 2235 m ü. M. [#rhbtour](.)
 
 ![](media/1552683244495278083-FYw9FeJXgAEIpEI.jpg)
 ![](media/1552683244495278083-FYw9KQHXgAMskd1.jpg)
@@ -109,7 +110,7 @@ Berninapass 2235 m ü. M. [#rhbtour](#top)
 
 ----
 
-Tirano (I), Endstation. 343km, 10 3/4 h unterwegs. Morgen gehts wieder zurück auf die Alpennordseite. [#rhbtour](#top)
+Tirano (I), Endstation. 343km, 10 3/4 h unterwegs. Morgen gehts wieder zurück auf die Alpennordseite. [#rhbtour](.)
 
 ![](media/1552706148859629573-FYxSAi8XgAYPG4c.jpg)
 
@@ -125,7 +126,7 @@ Zweiter Tag beginnt und schon vorbei am Kreisviadukt von Brusio, zu sehen auch a
 
 ----
 
-Bernina [#rhbtour](#top)
+Bernina [#rhbtour](.)
 
 ![](media/1552916584276049920-FY0RZO1XoAceoHu.jpg)
 
@@ -133,7 +134,7 @@ Bernina [#rhbtour](#top)
 
 ----
 
-Nach Albula mit Krokodil von Filisur nach Davos [#rhbtour](#top)
+Nach Albula mit Krokodil von Filisur nach Davos [#rhbtour](.)
 
 ![](media/1552957713780449285-FY02viFX0AA1gUV.jpg)
 ![](media/1552957713780449285-FY02zcRXEAIh68h.jpg)
@@ -142,7 +143,7 @@ Nach Albula mit Krokodil von Filisur nach Davos [#rhbtour](#top)
 
 ----
 
-Davos-Klosters-Filisur-Chur [#rhbtour](#top) Landwasserviadukt
+Davos-Klosters-Filisur-Chur [#rhbtour](.) Landwasserviadukt
 
 ![](media/1552990319951712257-FY1UbFUXoAAj7kw.jpg)
 
@@ -150,7 +151,7 @@ Davos-Klosters-Filisur-Chur [#rhbtour](#top) Landwasserviadukt
 
 ----
 
-Arosa. Damit haben wir's geschafft! [#rhbtour](#top)
+Arosa. Damit haben wir's geschafft! [#rhbtour](.)
 
 ![](media/1553024007708057600-FY1zGXKXgAIHUzh.jpg)
 ![](media/1553024007708057600-FY1zFmyWAAAHvdg.jpg)

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>$title$</title>
+  <title>{{ page.title }}</title>
   <style>
     #map {
         height: 600px;
@@ -24,12 +24,12 @@
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">$title$</h1>
+<h1 class="title">{{ page.title }}</h1>
 </header>
 
 <div id="map" class="map"></div>
 
-$body$
+{{ page.content | safe }}
 
 <script type="text/javascript">
   var pointStyle = new ol.style.Style({
