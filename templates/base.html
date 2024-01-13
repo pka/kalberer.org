@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-  <link rel="stylesheet" href="css/air.css" />
+  <link rel="stylesheet" href="/css/{{ page.css | default(value="air") }}.css" />
 </head>
 
 <body>
