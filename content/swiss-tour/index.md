@@ -1,6 +1,7 @@
 ---
 title: "Swiss Tour"
-css: "airtour"
+extra:
+  css: "airtour"
 ---
 
 ![](media/1115616986308988934-D3t3vA9WAAEwHQz.jpg)
