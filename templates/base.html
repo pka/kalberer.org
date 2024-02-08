@@ -3,12 +3,24 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-  <link rel="stylesheet" href="/css/{{ page.extra.css | default(value="air") }}.css" />
+  <title>{% block title %}
+    {% if page.title %}
+      {{ page.title }}
+    {% elif section.title %}
+      {{ section.title }}
+    {% else %}
+      {{ config.title }}
+    {% endif %}
+  {% endblock title %}</title>
+  {% if config.generate_feed %}
+    <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
+  {% endif %}
+  <link rel="stylesheet" href="/css/{{ page.extra.css | default(value='air') }}.css" />
 </head>
 
 <body>
   {% block content %} {% endblock %}
+  {% block pagination %} {% endblock pagination %}
 </body>
 
 </html>

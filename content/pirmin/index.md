@@ -8,6 +8,7 @@ This is the homepage of Pirmin Kalberer.
 
 ### Sites
 
+- [Blog](./blog/)
 - [Mastodon](https://mapstodon.space/@implgeo)
 - [Github](https://github.com/pka)
 

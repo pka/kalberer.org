@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Pirmin's Blog - {{ page.title }}{% endblock title %}
+
+{% block content %}
+<nav class="topleft"><a href="/pirmin/blog"><img src="/pirmin/media/gravatar.jpg" alt="" /></a></nav>
+<nav class="topright">| <a href="/pirmin">About</a> | <a href="/pirmin/blog">Blog</a> |</nav>
+
+<section class="post_container">
+  <article>
+      <h1 class="article_title">{{ page.title }}</h1>
+      <small><i>{{ page.date }}</i></small>
+      {{ page.content | safe }}
+  </article>
+</section>
+
+{% endblock content %}
+
+
+{% block pagination %}
+<hr />
+<nav class="pagination">
+    <span class="prev" ><a rel="prev" href="/pirmin/blog">← Home</a></span>
+</nav>
+{% endblock pagination %}

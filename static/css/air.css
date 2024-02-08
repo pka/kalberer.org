@@ -173,7 +173,7 @@ body {
   text-align: center;
 }
 
-img {
+img[src*="gravatar.jpg"],img[src*="monopoly.jpg"] {
   border-radius: 50%;
   height: 200px;
   margin: 0 auto;
@@ -219,4 +219,31 @@ ul {
 
 p {
   color: var(--color-text);
+}
+
+/* Blog elements */
+
+hr {
+  border: 1px solid lightgrey;
+}
+
+nav.topleft {
+  display: block;
+  position: absolute;
+  margin: 10px;
+  top: 0;
+  left: 0;
+}
+
+nav img {
+  width: 100px;
+  height: 100px;
+}
+
+nav.topright {
+  display: block;
+  position: absolute;
+  margin: 40px 10px 10px 10px;
+  top: 0;
+  right: 0;
 }
