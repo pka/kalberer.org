@@ -16,7 +16,7 @@ I plan to spend also time on other spatial Rust projects, especially [georaster]
 
 ### Goodbye Web-Mercator
 
-Mainly because of programmers laziness (which can a good thing!), 99% of today's web maps are in Web Mercator projection. My goal for this year is to help people using appropriate projections for making better maps. In 2018 Bojan Šavrič, Tom Patterson and Bernhard Jenny published their work on the [Equal Earth map projection](https://www.equal-earth.com/), an equal-area projection for world maps.
+Mainly because of programmers laziness (which can be a good thing!), 99% of today's web maps are in Web Mercator projection. My goal for this year is to help people using appropriate projections for making better maps. In 2018 Bojan Šavrič, Tom Patterson and Bernhard Jenny published their work on the [Equal Earth map projection](https://www.equal-earth.com/), an equal-area projection for world maps.
 
 ![](../assets/equal-earth.jpg)
 
