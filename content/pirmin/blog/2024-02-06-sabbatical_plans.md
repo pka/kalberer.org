@@ -10,7 +10,7 @@ My sabbatical started at February 1st and this is the rough plan for the coming 
 
 ### BBOX
 
-[BBOX](https://sourcepole.github.io/bbox/) is an ambitious project, building composable spatial services in pure Rust. It already covers most functionality of my Rust tile server [t-rex](https://t-rex.tileserver.ch/) and implements many OGC API standards, but requires a lot more time to make it an easy to use all-in-one package.
+[BBOX](https://www.bbox.earth/) is an ambitious project, building composable spatial services in pure Rust. It already covers most functionality of my Rust tile server [t-rex](https://t-rex.tileserver.ch/) and implements many OGC API standards, but requires a lot more time to make it an easy to use all-in-one package.
 
 I plan to spend also time on other spatial Rust projects, especially [georaster](https://github.com/pka/georaster) and [copc-rs](https://github.com/pka/copc-rs) and generally want to hang around more in the amazing [GeoRust community](https://github.com/georust/).
 
