@@ -16,6 +16,7 @@
     <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
   {% endif %}
   <link rel="stylesheet" href="/css/{{ page.extra.css | default(value='air') }}.css" />
+  <script defer src="https://analytics.eu.umami.is/script.js" data-website-id="6075c014-0126-4034-bef9-2e3264263825"></script>
 </head>
 
 <body>
