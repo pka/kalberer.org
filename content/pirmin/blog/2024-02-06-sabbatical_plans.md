@@ -1,6 +1,6 @@
 +++
 title = "Sabbatical - the plan"
-taxonomies.tags = ["sabbatical"]
+taxonomies.tags = ["personal"]
 +++
 
 After working more than 20 years in my company, I decided to take a break from daily work and concentrate on personal projects and have more time for my hobbies.
