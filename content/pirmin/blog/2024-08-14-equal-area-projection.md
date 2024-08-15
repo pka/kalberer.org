@@ -8,7 +8,7 @@ state of the proof-of-concept implementation using an Equal Earth projection in 
 
 <!-- more -->
 
-## Goodbye Web Mercator
+## Farewell Web Mercator
 
 At the State of the Map Europe 2024 conference in Łódź I've presented the results of my studies to replace Web Mercator in world maps. The main problem, its size distortion, is well known. 
 
