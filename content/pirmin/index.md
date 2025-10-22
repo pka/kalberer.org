@@ -12,9 +12,11 @@ This is the homepage of Pirmin Kalberer.
 - [Mastodon](https://mapstodon.space/@implgeo)
 - [Github](https://github.com/pka)
 
+<!--
 ### Projects
 
 * [Pizolcam](/webcam/)
+-->
 
 ### Railway tours
 
