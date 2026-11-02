@@ -197,6 +197,26 @@ pre {
   text-align: left;
 }
 
+/* Code in blog posts */
+.post_container pre,
+.post_container code {
+  font-size: .75rem;
+}
+
+.post_container pre {
+  /* override the inline background set by the syntax highlighter */
+  background-color: #e6e6e4 !important;
+  border-radius: 4px;
+  overflow-x: auto;
+  padding: .75rem 1rem;
+}
+
+.post_container :not(pre) > code {
+  background-color: #e6e6e4;
+  border-radius: 3px;
+  padding: .1em .35em;
+}
+
 blockquote {
   margin: 0;
   border-left: 5px solid #7a7a7a;
